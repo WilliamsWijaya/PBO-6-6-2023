@@ -1,0 +1,14 @@
+C:\Tugas Kuliah\pbo\API  weather\API  weather\bin\Debug\API  weather.exe.config
+C:\Tugas Kuliah\pbo\API  weather\API  weather\bin\Debug\API  weather.exe
+C:\Tugas Kuliah\pbo\API  weather\API  weather\bin\Debug\API  weather.pdb
+C:\Tugas Kuliah\pbo\API  weather\API  weather\bin\Debug\Newtonsoft.Json.dll
+C:\Tugas Kuliah\pbo\API  weather\API  weather\bin\Debug\Newtonsoft.Json.xml
+C:\Tugas Kuliah\pbo\API  weather\API  weather\obj\Debug\API  weather.csproj.AssemblyReference.cache
+C:\Tugas Kuliah\pbo\API  weather\API  weather\obj\Debug\API  weather.csproj.SuggestedBindingRedirects.cache
+C:\Tugas Kuliah\pbo\API  weather\API  weather\obj\Debug\API__weather.cuaca.resources
+C:\Tugas Kuliah\pbo\API  weather\API  weather\obj\Debug\API__weather.Properties.Resources.resources
+C:\Tugas Kuliah\pbo\API  weather\API  weather\obj\Debug\API  weather.csproj.GenerateResource.cache
+C:\Tugas Kuliah\pbo\API  weather\API  weather\obj\Debug\API  weather.csproj.CoreCompileInputs.cache
+C:\Tugas Kuliah\pbo\API  weather\API  weather\obj\Debug\API  weather.csproj.CopyComplete
+C:\Tugas Kuliah\pbo\API  weather\API  weather\obj\Debug\API  weather.exe
+C:\Tugas Kuliah\pbo\API  weather\API  weather\obj\Debug\API  weather.pdb
